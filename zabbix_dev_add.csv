@@ -1,0 +1,4 @@
+﻿host_name;host_ip;group_name;template_name
+device_name1;192.168.1.19;Cameras;ICMP Ping
+device_name2;192.168.1.20;Cameras;ICMP Ping
+device_name3;192.168.1.21;Cameras;ICMP Ping
